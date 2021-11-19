@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DreadCube/DreadCube.github.io/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/DreadCube/DreadCube.github.io/static/js/main.b130febb.chunk.js",
+    "main.js.map": "/DreadCube/DreadCube.github.io/static/js/main.b130febb.chunk.js.map",
+    "runtime-main.js": "/DreadCube/DreadCube.github.io/static/js/runtime-main.808b74dd.js",
+    "runtime-main.js.map": "/DreadCube/DreadCube.github.io/static/js/runtime-main.808b74dd.js.map",
+    "static/js/2.539e9962.chunk.js": "/DreadCube/DreadCube.github.io/static/js/2.539e9962.chunk.js",
+    "static/js/2.539e9962.chunk.js.map": "/DreadCube/DreadCube.github.io/static/js/2.539e9962.chunk.js.map",
+    "static/js/3.2539237b.chunk.js": "/DreadCube/DreadCube.github.io/static/js/3.2539237b.chunk.js",
+    "static/js/3.2539237b.chunk.js.map": "/DreadCube/DreadCube.github.io/static/js/3.2539237b.chunk.js.map",
+    "index.html": "/DreadCube/DreadCube.github.io/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/DreadCube/DreadCube.github.io/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.539e9962.chunk.js.LICENSE.txt": "/DreadCube/DreadCube.github.io/static/js/2.539e9962.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808b74dd.js",
+    "static/js/2.539e9962.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b130febb.chunk.js"
+  ]
+}
